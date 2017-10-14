@@ -1,0 +1,2 @@
+Radio for Reddit does not collect and store any personal data. It only uses google services for advertising relevent content.
+For any violation of privacy policy please send a mail to aurumsystemsllc@gmail.com
